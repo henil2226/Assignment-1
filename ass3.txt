@@ -1,0 +1,89 @@
+Module 5 :- HTML5
+
+1. What are the new tags added in HTML5?
+In HTML5, some new tags have names like header, nav, section, article, aside, footer, 
+video, audio, canvas,svg, and more..
+
+2. How to embed audio and video in a webpage?
+If we want to add audio to our webpage, we can use the <audio> tag. We just need to 
+specify the audio file we want to use with the src attribute. We can also add controls,
+like play and pause buttons, to allow the user to control the audio. Similarly, if we want
+to add a video, we can use the <video> tag. We just need to specify the video file using the 
+src attribute and the browser will show the video with built-in controls.
+
+3. Semantic element in HTML5?
+Semantic elements in HTML5 are special tags that give meaning to our content. Some examples of these tags
+are header, nav, section, article, aside ,footer, mark.
+
+4. Canvas and SVG tags 
+In HTML5, we have two tags for graphics: canvas and svg. The canvas tag allows us to create dynamic 
+and interactive graphics using JavaScript.  the svg tag is used for creating scalable vector graphics. 
+It's good for making things like icons or charts that can be resized without losing quality.
+
+
+
+Module 6 :-JAVASCRIPT BASIC & DOM
+
+
+
+Q: What is JavaScript?
+A: JavaScript is a programming language that allows us to make our webpages interactive. 
+It runs on the client-side, meaning it is executed by the user's web browser. JavaScript 
+can be used to add dynamic content, handle user interactions, validate forms, create 
+animations, and much more.
+
+Q: What is the use of isNaN function?
+A: The isNaN function is used to check if a value is "Not-a-Number" (NaN). It takes a 
+value as input and returns true if the value is NaN, and false if it is a valid number
+ or can be converted to a number. It is commonly used to validate user input, especially
+ when dealing with numeric values.
+
+Q: What is negative Infinity?
+A: Negative Infinity is a special value in JavaScript that represents a number that is 
+infinitely small or negative infinity. It is typically the result of a mathematical operation
+ that exceeds the lower limit of representable numbers. For example, dividing a negative number 
+by zero results in negative Infinity.
+
+Q: Which company developed JavaScript?
+A: JavaScript was developed by Netscape Communications Corporation, a software company that was 
+a major player in the early web industry. The initial version of JavaScript, known as LiveScript, was
+ created by Brendan Eich at Netscape in 1995.
+
+Q: What are undeclared and undefined variables?
+A: Undeclared variables refer to variables that have been used in code without being explicitly
+ declared using the var, let, or const keywords. They are treated as global variables by default, 
+which can cause unintended side effects. Undefined variables, on the other hand, are variables that 
+have been declared but have not been assigned a value. They exist in the program's memory but do not 
+have a specific value assigned to them. Accessing an undefined variable will result in the value undefined.
+
+Q: Write the code for adding new elements dynamically.
+A: Here's an example code snippet to dynamically add a new element to the HTML using JavaScript:
+
+
+// Create a new element
+var newElement = document.createElement("p");
+
+// Add content to the new element
+newElement.textContent = "This is a new paragraph.";
+
+// Append the new element to an existing element in the HTML
+var parentElement = document.getElementById("container");
+parentElement.appendChild(newElement);
+
+Q: What is the difference between ViewState and SessionState?
+A: ViewState and SessionState are both mechanisms used in web applications to store data.
+ViewState is used to store the state of controls on a web page between postbacks. It is stored 
+as a hidden field in the HTML and is sent back and forth between the server and the client. 
+ViewState is specific to a single page and is not shared across multiple pages.
+SessionState, on the other hand, is used to store data that needs to be maintained across 
+multiple requests and pages for a specific user. 
+
+Q: What is the === operator?
+A: The === operator in JavaScript is called the strict equality operator. It is used to compare
+ two values for equality without performing type coercion. It checks if the values are of the same
+ type and have the same value. If the types are different or the values are not the same, it returns
+ false. This is different from the loose equality operator (==), which allows type coercion during comparison.
+
+Q: How can the style/class of an element be changed?
+A: To change the style of an element using JavaScript, you can manipulate its style property.
+ For example, to change the background color of an element with the id "myElement" to
