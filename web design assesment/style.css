@@ -1,0 +1,248 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+    align-items: center;
+
+}
+.jcs{
+    justify-content: space-between;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.link li{
+    display: inline;
+    margin: 0 15px;
+    
+}
+.link li a{
+    color: white;
+    text-decoration: none;
+}
+.secone{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(./img/sec1\ background.jpg) ;
+    /* height: 1000px; */
+}
+.header{
+    background-color: rgba(255, 255, 255, 0.596) ;
+}
+.logo{
+    font-size: 42px;
+    font-weight: 900;
+    color: white;
+}
+.backg{
+    background: rgba(128, 128, 128, 0.582);
+    /* height: 1000px; */
+}
+.div50{
+    width: 50%;
+}
+.htext{
+    margin: 100px 0;
+    padding: 100px 0;
+    color: white;
+}
+.htext h1{
+    margin: 20px 0 ;
+}
+.htext h4{
+    margin: 0 0 20px 0;
+}
+.htext button{
+    color: white;
+    background-color: red;
+    padding: 10PX 20px;
+    border-radius: 20px;
+}
+.sectwo{
+    background-color: rgba(0, 0, 0, 0.712);
+    position: relative;
+}
+.div20{
+    background-color: rgba(175, 13, 13, 0.863);
+    width: 20%;
+    color: white;
+    text-align: center;
+    border-radius: 10%;
+    position: relative;
+    bottom: 150px;
+
+}
+.jcsa{
+    justify-content: space-around;
+}
+.round{
+    margin: 15px auto;
+    display: block;
+    width: 25%;
+    padding: 22px;
+    border: solid black 2px;
+    border-radius: 47px;
+}
+.box h2{
+    margin: 12px 0;
+}
+.sectwo h2{
+    color: white;
+    text-align: center;
+}
+.div80{
+    text-align: right;
+    width: 80%;
+    /* display: inline-block;    */
+}
+.div47{
+    width: 47%;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    border-radius: 20%;
+    
+}
+.div47 img{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+.inline{
+    display: inline-block;
+}
+.row1{
+    text-align: center;
+
+}
+.tc{
+    background-color: white;
+}
+.ntc{
+    background-color: white;
+    margin-bottom: 21%;
+
+}
+.ntc h4{
+    color: black;
+    margin: 15px 0 25px 0;
+
+}
+.ntc h5{
+    color: black;
+    margin: 15px 0;
+}
+.ntc button{
+    background-color: rgba(194, 14, 14, 0.877);
+    padding: 5px;
+    border-radius: 20px;
+    margin: 20px 0;
+}
+.tc{
+    padding: 25px;
+}
+.date{
+    margin: 0 20px;
+}
+.tc h3{
+    color: red;
+    margin-bottom: 10px;
+}
+.secthree{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(./img/sec1\ background.jpg) ;
+}
+.slide1{
+    margin: 100px 0;
+    background-color: rgba(128, 128, 128, 0.61);
+}
+.slide1 h2{
+    color: white;
+    margin: 30px 15px;
+    padding: 10px 0 ;
+}
+.slide1 h3{
+    margin: 20px 15px;
+    padding: 10px 0 ;
+}
+.slide1 button{
+    color: white;
+    background-color: red;
+    padding: 10PX 20px;
+    border-radius: 20px;
+}
+#ex{
+    background-color: yellow;
+}
+.slide3{
+    padding: 5px 0;
+    background-color: rgba(255, 255, 255, 0.644);
+    margin: 0px 0 100px 100px;
+}
+.slide3 h2{
+    color: burlywood;
+    margin: 15px;
+    padding: 10px 0 ;
+}
+.slide3 h3{
+    color: black;
+    margin: 15px;
+    padding: 10px 0 ;
+}
+.div22{
+    background-color: rgba(238, 229, 229, 0.733);
+    width: 20%;
+    color: black;
+    text-align: center;
+    margin: 100px 0;
+
+}
+#nh{
+    text-align: start;
+    padding: 100px 0 0 30px;
+}
+.box12{
+    width: 70%;
+
+    margin: 0 auto;
+}
+.box12 img{
+    width: 100%;
+    display: block;
+    
+}
+#text11{
+    color: white;
+    padding: 40px 0;
+    width: 70%;
+}
+.div40{
+    width: 40%;
+    display: inline-block;
+    margin: 10px;
+
+}
+.box11{
+    background-color: rgba(128, 128, 128, 0.411);
+    width: 100%;
+    text-align: center;
+    border-radius: 20px;
+}
+.box11 h2{
+    color: rgb(255, 187, 0);
+    padding: 15px 0;
+}
+.box11 h3{
+    color: white;
+    padding: 0 0 10px 0;
+}
+.down2{
+   display: inline-flex;
+}
+
+
