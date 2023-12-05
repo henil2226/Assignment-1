@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    min-height: 100vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: aqua;
+}
+input:focus{
+    color: white;
+    background-color: black;
+}
+.formbox{
+    background-color: black;
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+}
+.formbox ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 10px;
+}
+.formbox ul li {
+    color: red;
+}
+.formbox ul li span::before{
+    content: " ☒ ";
+}
+.formbox ul li.active span::before{
+    content : "☑";
+    color: green;
+}
+.formbox ul li{
+    display: none;
+}
+
+/* #passchackbutton{
+    pointer-events: none;
+}
+#passchackbutton:active{
+    pointer-events: auto;
+} */
