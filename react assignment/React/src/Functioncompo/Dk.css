@@ -1,0 +1,50 @@
+.two td {
+    border: 2px solid;
+    width: 100%;
+    /* background: red; */
+    /* padding: 30px 30px;
+    margin-top: 100px;
+    text-align: center; */
+
+
+}
+.two tr:hover{
+    background-color: blue;
+    color: aliceblue;
+}
+
+.apipost tr:hover {
+    background-color: rgb(103, 80, 255);
+    /* margin: 50px; */
+    color: aliceblue;
+}
+.apipostinput{
+    width: 100%;
+}
+.apipostbutton:hover{
+    background: deeppink;
+}
+.apipostinput:hover{
+    background: rgb(159, 160, 95);
+    color: aliceblue;
+}
+.crudinput:hover{
+    background-color: blanchedalmond;
+}
+.crudbutton:hover{
+    background-color: crimson;
+    color: aliceblue;
+}
+.btn-project{
+    width: 100%;
+    text-align: center;
+    /* padding: 0 0 0 0 ; */
+}
+.Project-table{
+    width: 100%;
+    border: 1px solid;
+}
+.AddUser button{
+    margin: 0 auto;
+    display: block;
+}

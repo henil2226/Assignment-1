@@ -1,0 +1,148 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "json-server",
+      "email": "denish",
+      "password": 123456,
+      "number": 2134567890,
+      "city": "ahm"
+    },
+    {
+      "username": "dk",
+      "email": "dk@gmail.com",
+      "password": "dk@1234",
+      "number": "1234567890",
+      "city": "surat",
+      "id": 2
+    },
+    {
+      "username": "denish",
+      "email": "denish@gmail.com",
+      "password": "1234567890",
+      "number": "1232323434",
+      "city": "afn",
+      "id": 3
+    },
+    {
+      "username": "denish",
+      "email": "denish@gmail.com",
+      "password": "123",
+      "number": "1231123131",
+      "city": "raj",
+      "id": 4
+    },
+    {
+      "username": "harnish",
+      "email": "harnish@gmail.com",
+      "password": "12344556",
+      "number": "123456",
+      "city": "raj",
+      "id": 5
+    },
+    {
+      "username": "Raj",
+      "email": "raj@gmail.com",
+      "password": "159463",
+      "number": "8569435975",
+      "city": "Ahm",
+      "id": 6
+    },
+    {
+      "username": "Sohil",
+      "email": "sohil@gmail.com",
+      "password": "4885643",
+      "number": "3468532456",
+      "city": "Ahm",
+      "id": 7
+    },
+    {
+      "username": "axya",
+      "email": "axya@gmail.com",
+      "password": "23123123",
+      "number": "3131231231",
+      "city": "asdasd",
+      "id": 8
+    },
+    {
+      "username": "hardik",
+      "email": "hardik@gmail.com",
+      "password": "1654561",
+      "number": "5618946219",
+      "city": "ahm",
+      "id": 9
+    },
+    {
+      "username": "kairn",
+      "email": "kair@gmail.com",
+      "password": "56156156",
+      "number": "1564596165",
+      "city": "rajkot",
+      "id": 10
+    },
+    {
+      "username": "daya",
+      "email": "daya@gmail.com",
+      "password": "daya@123",
+      "number": "5783948459",
+      "city": "ahm",
+      "id": 11
+    },
+    {
+      "username": "virendrasinh",
+      "email": "virendrasinh@gmail.com",
+      "password": "!123",
+      "number": "8140073834",
+      "city": "Ahm",
+      "id": 12
+    },
+    {
+      "username": "Denish",
+      "email": "denish@gmail.com",
+      "password": "denish@1238963",
+      "number": "8238665591",
+      "city": "Ahm",
+      "id": 13
+    },
+    {
+      "username": "Denish",
+      "email": "Denish@gmail.com",
+      "password": "denisgh@564561231897",
+      "number": "6592289465",
+      "city": "ahmmmm",
+      "id": 14
+    },
+    {
+      "username": "sonu",
+      "email": "sonu@gmail.com",
+      "password": "sonu@159",
+      "number": "4596061346",
+      "city": "Surat",
+      "id": 15
+    },
+    {
+      "username": "denish",
+      "email": "denish@gmail.com",
+      "password": "denish@123",
+      "number": "8783274827",
+      "city": "Ahm",
+      "id": 16
+    },
+    {
+      "username": "Sohan",
+      "email": "Sohan@gmail.com",
+      "password": "Sohan@1234",
+      "number": "1648641321",
+      "city": "Ahm",
+      "id": 17
+    },
+    {
+      "username": "suraj prajapati",
+      "email": "suraj123@gmail.com",
+      "password": "sp9876",
+      "number": "5615156194",
+      "city": "ahmedabad",
+      "id": 18
+    }
+  ]
+}
