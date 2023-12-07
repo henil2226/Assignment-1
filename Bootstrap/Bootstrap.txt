@@ -1,0 +1,41 @@
+1) What are the default Bootstrap text settings?
+	-Bootstrap 4 uses a default font-size of 16px, and its line-height is 1.5. 
+	 The default font-family is "Helvetica Neue", Helvetica, Arial, sans-serif. 
+
+2) What do you know about the Bootstrap Grid System?
+	-Bootstrap's grid system uses a series of containers, rows, and columns to layout and align content. 
+	 It's built with flexbox and is fully responsive. 
+	 Below is an example and an in-depth look at how the grid comes together.
+
+3) What is the difference between Bootstrap 4 and Bootstrap 5
+	-The form elements in Bootstrap 4 have defaulted to the browser-provided view.
+	 However, in Bootstrap 5, the form elements have a custom design that enables them to have a consistent look and feel in all browsers.
+	 The new form controls are based on completely semantic, standard form controls. This helps developers to avoid adding extra markups for form           controls.
+
+4) What is a Button Group, and what is the class for a basic Button Group? 
+	-Button groups allow multiple buttons to be stacked together on a single line. This is useful when you want to place items like alignment buttons together. 
+	 You can add on optional JavaScript radio and checkbox style behavior with Bootstrap Button Plugin.
+
+5) How can you use Bootstrap to make thumbnails?
+	-This chapter discusses about Bootstrap thumbnails. A lot of sites need a way to lay out images, videos, text, etc, in a grid, and Bootstrap has an easy way to do this with thumbnails. To create thumbnails using Bootstrap −
+	 Add an <a> tag with the class of .thumbnail around an image.
+	 This adds four pixels of padding and a gray border.
+	 On hover, an animated glow outlines the image.
+	
+6) In Bootstrap 4, what is flexbox?
+	-Flexbox is used to quickly manage the layout, alignment and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. 
+
+7) How can one create an alert in Bootstrap?
+	-Add the .alert-link class to any links inside the alert box to create "matching colored links":
+	Success! You should read this message.
+	Info! You should read this message.
+	Warning! You should read this message.
+	Danger! You should read this message.
+	Primary! You should read this message.
+	Secondary!
+	Dark!
+	Light!
+
+8) What is a bootstrap card and how would you create one?
+	-A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options. 
+	If you're familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails.
