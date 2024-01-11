@@ -1,0 +1,45 @@
+{
+  "userid": [
+    {
+      "id": 1,
+      "name": "test",
+      "email": "test@123",
+      "roll": 1,
+      "password": "test123"
+    },
+    {
+      "name": "henil",
+      "email": "henil@2226",
+      "password": "HEnil##@22121as",
+      "roll": 2,
+      "id": 2
+    },
+    {
+      "id": 6,
+      "name": "test12",
+      "email": "test126",
+      "password": "123456",
+      "roll": "1"
+    },
+    {
+      "id": 7,
+      "name": "safs",
+      "email": "sdf@dsfsd",
+      "password": "sdfsdf",
+      "roll": null
+    },
+    {
+      "id": 8,
+      "name": "asd",
+      "email": "asds@sda",
+      "password": "sdsd"
+    },
+    {
+      "id": 9,
+      "name": "asdas",
+      "email": "sdsfd@sda",
+      "password": "sda",
+      "roll": null
+    }
+  ]
+}
